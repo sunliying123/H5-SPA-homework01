@@ -1,0 +1,22 @@
+{
+  "name": "h5-spa-homework01",
+  "version": "1.0.0",
+  "description": "金庸小说介绍电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunliying123/H5-SPA-homework01.git"
+  },
+  "author": "sunliying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunliying123/H5-SPA-homework01/issues"
+  },
+  "homepage": "https://github.com/sunliying123/H5-SPA-homework01#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
